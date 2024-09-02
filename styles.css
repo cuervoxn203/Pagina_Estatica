@@ -64,21 +64,21 @@
 }
 
 .section-header {
-    background-color: #007bff; /* Color de fondo para el encabezado */
+    background-color: #007bff; 
     color: white;
     padding: 20px 0;
     border-radius: 0.5rem;
 }
 
 .section-content {
-    background-color: #ffffff; /* Color de fondo para las secciones */
+    background-color: #ffffff; 
     padding: 20px;
     border-radius: 0.5rem;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para profundidad */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 .section-content h2 {
-    border-bottom: 2px solid #007bff; /* Línea debajo de los títulos */
+    border-bottom: 2px solid #007bff; 
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
