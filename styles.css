@@ -41,3 +41,11 @@
     font-size: 1.2rem; 
     color: #6c757d; 
 }
+
+.card-img-top {
+    transition: transform 0.3s ease;
+}
+
+.card-img-top:hover {
+    transform: scale(1.1);
+}
